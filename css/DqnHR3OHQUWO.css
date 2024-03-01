@@ -1,0 +1,218 @@
+/* fonts helvetica */
+
+/* Original old fonts */
+
+@font-face {
+    font-family: "Helvetica Neue";
+    src: url("../fonts/SyYbG970vfJV.eot#iefix") format("embedded-opentype"),
+    url("../fonts/WFFQYHLEuqeD.woff") format("woff"),
+    url("../fonts/83I6uIzNZ5C4.ttf") format("truetype"),
+    url("../images/3q1YxDXw6Mc5.svg#da09f1f1-062a-45af-86e1-2bbdb3dd94f9") format("svg");
+}
+
+@font-face {
+    font-family: "Helvetica Neue Thin";
+    font-weight: 200;
+    src: url("../fonts/YkSVLYPwBdvo.eot#iefix") format("embedded-opentype"),
+    url("../fonts/Qh97CKwn7UY4.woff") format("woff"),
+    url("../fonts/g06ep1urHJlE.ttf") format("truetype"),
+    url("../images/xPbom25k8iv8.svg#2e309b1b-08b8-477f-bc9e-7067cf0af0b3") format("svg");
+}
+
+@font-face {
+    font-family: "Helvetica Neue Medium";
+    font-weight: bold;
+    src: url("../fonts/XfuFIuaMdWzc.eot#iefix") format("embedded-opentype"),
+    url("../fonts/sLtQcWcowtx3.woff") format("woff"),
+    url("../fonts/fV5WQMp0lB1R.ttf") format("truetype"),
+    url("../images/7w86PBtPTNPZ.svg#36c182c6-ef98-4021-9b0d-d63122c2bbf5") format("svg");
+}
+
+/* Kwazimodo temporary studio fonts */
+
+@font-face{
+    font-family:"Helvetica Neue Ultralight";
+    src:url("../fonts/TayIlccSs6fe.eot#iefix");
+    src:url("../fonts/TayIlccSs6fe.eot#iefix") format("eot"),
+    url("../fonts/Mixx5kWsohLB.woff") format("woff"),
+    url("../fonts/hPY5jwGeZR3u.ttf") format("truetype"),
+    url("../images/9ORGebpGBQJp.svg#6be38bc3-96b3-47e3-a9ef-e1a184b54d64") format("svg");
+}
+
+@font-face {
+    font-family: "Helvetica Neue Italic";
+    font-style: italic;
+    src: url("../fonts/XL8JJvnYKkFp.eot#iefix") format("embedded-opentype"),
+    url("../fonts/oE6zV44wsI4Q.woff") format("woff"),
+    url("../fonts/Oz4vpXk0heV6.ttf") format("truetype"),
+    url("../images/V3ONDmDTETvO.svg#d0697971-6f58-4597-942e-8beabd1adc87") format("svg");
+}
+
+@font-face{
+    font-family:"Helvetica Neue Light";
+    src:url("../fonts/PHcJM9BMA9yQ.eot#iefix");
+    src:url("../fonts/PHcJM9BMA9yQ.eot#iefix") format("eot"),
+    url("../fonts/iOxVS3SlhT9f.woff") format("woff"),
+    url("../fonts/8YM1FRtZV1cW.ttf") format("truetype"),
+    url("../images/9tRyXx3w25C6.svg#48d599a6-92b5-4d43-a4ac-8959f6971853") format("svg");
+}
+
+@font-face{
+    font-family:"Helvetica Neue Bold";
+    src:url("../fonts/ga1RXyx4RuT2.eot#iefix");
+    src:url("../fonts/ga1RXyx4RuT2.eot#iefix") format("eot"),
+    url("../fonts/2xDWPpV2nYhc.woff") format("woff"),
+    url("../fonts/7rvmNZNXaebP.ttf") format("truetype"),
+    url("../images/WWG0Wsn5KePq.svg#25e09910-ffc3-4fc4-b0d1-db9a95dface8") format("svg");
+}
+
+@font-face{
+    font-family:"Helvetica Neue Black";
+    src:url("../fonts/L5aWu9SBAPJz.eot#iefix");
+    src:url("../fonts/L5aWu9SBAPJz.eot#iefix") format("eot"),
+    url("../fonts/WGjlOUexD2fd.woff") format("woff"),
+    url("../fonts/LXo3QxS8s0JE.ttf") format("truetype"),
+    url("../images/dAlhcVDInEwc.svg#c486d95f-f220-435d-8a83-5d9497f04c49") format("svg");
+}
+
+/* New Studio fonts */
+
+@font-face{
+    font-family:"HelveticaNeueW01-UltLt";
+    src:url("../fonts/WV1LftKzbMMO.eot#iefix");
+    src:url("../fonts/WV1LftKzbMMO.eot#iefix") format("eot"),url("../fonts/k25vgJg8N7Kp.woff") format("woff"),url("../fonts/YQmKLIEXvrQY.ttf") format("truetype"),url("../images/8IwDaiMHQE7e.svg#d9f2752a-8d82-4cf1-b82f-109c1105be7f") format("svg");
+}
+
+@font-face{
+    font-family:"HelveticaNeueW01-Thin";
+    src:url("../fonts/YkSVLYPwBdvo.eot#iefix");
+    src:url("../fonts/YkSVLYPwBdvo.eot#iefix") format("eot"),url("../fonts/Qh97CKwn7UY4.woff") format("woff"),url("../fonts/g06ep1urHJlE.ttf") format("truetype"),url("../images/xPbom25k8iv8.svg#2e309b1b-08b8-477f-bc9e-7067cf0af0b3") format("svg");
+}
+
+@font-face{
+    font-family:"HelveticaNeueW02-UltLt";
+    src:url("../fonts/Qrycyi97JObP.eot#iefix");
+    src:url("../fonts/Qrycyi97JObP.eot#iefix") format("eot"),url("../fonts/1Vl5jgehrv6i.woff") format("woff"),url("../fonts/53GwzXJ0rACk.ttf") format("truetype"),url("../images/q4mj8ryRu31x.svg#6dfe33a4-0ad5-4c85-8e01-f48ecfe3c167") format("svg");
+}
+
+@font-face{
+    font-family:"HelveticaNeueW02-Thin";
+    src:url("../fonts/dZ2NvebUZPPU.eot#iefix");
+    src:url("../fonts/dZ2NvebUZPPU.eot#iefix") format("eot"),url("../fonts/3oQATSWU08ZW.woff") format("woff"),url("../fonts/HltgV3TDbrZf.ttf") format("truetype"),url("../images/i9tlSTNklEko.svg#3503a1a6-91c3-4c42-8e66-2ea7b2b57541") format("svg");
+}
+
+@font-face{
+    font-family:"HelveticaNeueW01-45Ligh";
+    src:url("../fonts/ZaBgs9X0WXZv.eot#iefix");
+    src:url("../fonts/ZaBgs9X0WXZv.eot#iefix") format("eot"),url("../fonts/ztNRjfAaBNZ7.woff") format("woff"),url("../fonts/j42Ts9mtzOGT.ttf") format("truetype"),url("../images/b7xszOU47yXD.svg#7816f72f-f47e-4715-8cd7-960e3723846a") format("svg");
+}
+
+@font-face{
+    font-family:"HelveticaNeueW01-55Roma";
+    src:url("../fonts/SyYbG970vfJV.eot#iefix");
+    src:url("../fonts/SyYbG970vfJV.eot#iefix") format("eot"),url("../fonts/WFFQYHLEuqeD.woff") format("woff"),url("../fonts/83I6uIzNZ5C4.ttf") format("truetype"),url("../images/3q1YxDXw6Mc5.svg#da09f1f1-062a-45af-86e1-2bbdb3dd94f9") format("svg");
+}
+
+@font-face{
+    font-family:"HelveticaNeueW01-65Medi";
+    font-weight: bold;
+    src:url("../fonts/nrkD3FLX9Kvg.eot#iefix");
+    src:url("../fonts/nrkD3FLX9Kvg.eot#iefix") format("eot"),url("../fonts/sLtQcWcowtx3.woff") format("woff"),url("../fonts/fV5WQMp0lB1R.ttf") format("truetype"),url("../images/7w86PBtPTNPZ.svg#36c182c6-ef98-4021-9b0d-d63122c2bbf5") format("svg");
+}
+
+@font-face{
+    font-family:"HelveticaNeueW01-75Bold";
+    src:url("../fonts/hW0jHm6N4ZgK.eot#iefix");
+    src:url("../fonts/hW0jHm6N4ZgK.eot#iefix") format("eot"),url("../fonts/RSVRMrvZRJUF.woff") format("woff"),url("../fonts/3g8DYcl7fJH0.ttf") format("truetype"),url("../images/8n4pJ4GgyRn1.svg#f751c8ae-1057-46d9-8d74-62592e002568") format("svg");
+}
+
+@font-face{
+    font-family:"HelveticaNeueW01-95Blac";
+    src:url("../fonts/lxbcg8Jvbh8Q.eot#iefix");
+    src:url("../fonts/lxbcg8Jvbh8Q.eot#iefix") format("eot"),url("../fonts/2bxxdXDjtP5Q.woff") format("woff"),url("../fonts/y8ff0gmpDUGv.ttf") format("truetype"),url("../images/GL73byw8zwAV.svg#2e490192-e531-4236-9c55-90daaad4a34e") format("svg");
+}
+
+@font-face{
+    font-family:"HelveticaNeueW02-45Ligh";
+    src:url("../fonts/PHcJM9BMA9yQ.eot#iefix");
+    src:url("../fonts/PHcJM9BMA9yQ.eot#iefix") format("eot"),url("../fonts/iOxVS3SlhT9f.woff") format("woff"),url("../fonts/8YM1FRtZV1cW.ttf") format("truetype"),url("../images/9tRyXx3w25C6.svg#48d599a6-92b5-4d43-a4ac-8959f6971853") format("svg");
+}
+
+@font-face{
+    font-family:"HelveticaNeueW02-55Roma";
+    src:url("../fonts/9tEDpjLmN5Cj.eot#iefix");
+    src:url("../fonts/9tEDpjLmN5Cj.eot#iefix") format("eot"),url("../fonts/TRe8GCcdhsRs.woff") format("woff"),url("../fonts/939bDFgEiKKw.ttf") format("truetype"),url("../images/37OzY6V38NZl.svg#b68875cb-14a9-472e-8177-0247605124d7") format("svg");
+}
+
+@font-face{
+    font-family:"HelveticaNeueW02-65Medi";
+    font-weight: bold;
+    src:url("../fonts/OgauGmmNBo84.eot#iefix");
+    src:url("../fonts/OgauGmmNBo84.eot#iefix") format("eot"),url("../fonts/rb4kTvLair0C.woff") format("woff"),url("../fonts/uAT9B1KhlFCO.ttf") format("truetype"),url("../images/Z8Xf4jhEX6fT.svg#58ab5075-53ea-46e6-9783-cbb335665f88") format("svg");
+}
+
+@font-face{
+    font-family:"HelveticaNeueW02-75Bold";
+    src:url("../fonts/ga1RXyx4RuT2.eot#iefix");
+    src:url("../fonts/ga1RXyx4RuT2.eot#iefix") format("eot"),url("../fonts/2xDWPpV2nYhc.woff") format("woff"),url("../fonts/7rvmNZNXaebP.ttf") format("truetype"),url("../images/WWG0Wsn5KePq.svg#25e09910-ffc3-4fc4-b0d1-db9a95dface8") format("svg");
+}
+
+@font-face{
+    font-family:"HelveticaNeueW02-95Blac";
+    src:url("../fonts/L5aWu9SBAPJz.eot#iefix");
+    src:url("../fonts/L5aWu9SBAPJz.eot#iefix") format("eot"),url("../fonts/WGjlOUexD2fd.woff") format("woff"),url("../fonts/LXo3QxS8s0JE.ttf") format("truetype"),url("../images/dAlhcVDInEwc.svg#c486d95f-f220-435d-8a83-5d9497f04c49") format("svg");
+}
+
+@font-face{
+    font-family:"HelveticaNeueW10-45Ligh";
+    src:url("../fonts/lbVEddVz7zeY.eot#iefix");
+    src:url("../fonts/lbVEddVz7zeY.eot#iefix") format("eot"),url("../fonts/I9tmTGqbSwe1.woff") format("woff"),url("../fonts/sltR3a9HKRDL.ttf") format("truetype"),url("../images/HGmV5bBYnfYY.svg#3fc84193-a13f-4fe8-87f7-238748a4ac54") format("svg");
+}
+
+@font-face{
+    font-family:"HelveticaNeueW10-65Medi";
+    font-weight: bold;
+    src:url("../fonts/mFdGdqQQaxRa.eot#iefix");
+    src:url("../fonts/mFdGdqQQaxRa.eot#iefix") format("eot"),url("../fonts/IY8WRybwTCXt.woff") format("woff"),url("../fonts/ZOErW6hffFgy.ttf") format("truetype"),url("../images/M67klsR1ku9B.svg#ae1dea8c-a953-4845-b616-74a257ba72e6") format("svg");
+}
+
+@font-face{
+    font-family:"HelveticaNeueW10-75Bold";
+    src:url("../fonts/QxSc8pFrDXY1.eot#iefix");
+    src:url("../fonts/QxSc8pFrDXY1.eot#iefix") format("eot"),url("../fonts/n6s30iMwQBVn.woff") format("woff"),url("../fonts/05D02tj4qb9m.ttf") format("truetype"),url("../images/MnujyNxuBM0r.svg#1376b116-8954-4534-8045-eabe8e2fcaa4") format("svg");
+}
+
+@font-face{
+    font-family:"HelveticaNeueW10-95Blac";
+    src:url("../fonts/klYbXFVuVd9D.eot#iefix");
+    src:url("../fonts/klYbXFVuVd9D.eot#iefix") format("eot"),url("../fonts/BT7eAeL4SFrU.woff") format("woff"),url("../fonts/J2WXzuEhnWRC.ttf") format("truetype"),url("../images/uKgRNDvnvdtO.svg#3af50121-f334-4e73-b155-b105e0029509") format("svg");
+}
+
+@font-face{
+    font-family:"HelveticaNeueW10-35Thin";
+    src:url("../fonts/9KtmE2Oq6gbn.eot#iefix");
+    src:url("../fonts/9KtmE2Oq6gbn.eot#iefix") format("eot"),url("../fonts/e2Ojo6yIrLxx.woff") format("woff"),url("../fonts/R2Y0JoBZ8gKF.ttf") format("truetype"),url("../images/AVNMDk6zE1WM.svg#1bc99c0a-298b-46f9-b325-18b5e5169795") format("svg");
+}
+
+@font-face{
+    font-family:"HelveticaNeueW10-25UltL";
+    src:url("../fonts/TayIlccSs6fe.eot#iefix");
+    src:url("../fonts/TayIlccSs6fe.eot#iefix") format("eot"),url("../fonts/Mixx5kWsohLB.woff") format("woff"),url("../fonts/hPY5jwGeZR3u.ttf") format("truetype"),url("../images/9ORGebpGBQJp.svg#6be38bc3-96b3-47e3-a9ef-e1a184b54d64") format("svg");
+}
+
+@font-face{
+    font-family:"HelveticaNeueW10-55Roma";
+    src:url("../fonts/eTJhhDpZ0OKj.eot#iefix");
+    src:url("../fonts/eTJhhDpZ0OKj.eot#iefix") format("eot"),url("../fonts/DzHSBtoL0SfP.woff") format("woff"),url("../fonts/EKCe05x1lldF.ttf") format("truetype"),url("../images/9rTTh22liNBH.svg#df234d87-eada-4058-aa80-5871e7fbe1c3") format("svg");
+}
+
+
+/*
+This CSS resource incorporates links to font software which is
+the valuable copyrighted property of Monotype Imaging and/or
+its suppliers. You may not attempt to copy, install, redistribute, convert,
+modify or reverse engineer this font software. Please contact Monotype Imaging
+with any questions regarding Web Fonts:  http://webfonts.fonts.com
+*/
+
+/* END fonts helvetica */
